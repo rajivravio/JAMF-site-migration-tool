@@ -1,0 +1,3 @@
+use jamfsoftware;
+SELECT  display_name, mobile_device_configuration_profile_id
+FROM mobile_device_configuration_profiles;
