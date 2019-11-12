@@ -30,12 +30,12 @@ Before running the script, you will need to ensure all the dependencies are in p
 	templates by resource type. The tool requires XML files for each resource type moved that has the target site information. You can generate 
 	new ones for different tags than the ones in the template by navigating to https://jamf.url.com:8443/api 
 
-		1. targetComputerGroupSiteField.xml	---> Which Site would you like to move the computer groups to?
-		2. targetDeviceGroupSiteField.xml	---> Which Site would you like to move the device groups to?
-		3. targetComputerPolicySiteField.xml	---> Which Site would you like to move the computer policies to?
+		1. targetComputerGroupSiteField.xml		---> Which Site would you like to move the computer groups to?
+		2. targetDeviceGroupSiteField.xml		---> Which Site would you like to move the device groups to?
+		3. targetComputerPolicySiteField.xml		---> Which Site would you like to move the computer policies to?
 		4. targetComputerConfigProfileSiteField.xml	---> Which Site would you like to move the computer config profiles to?
 		5. targetDeviceConfigProfileSiteField.xml	---> Which Site would you like to move the device config profiles to?
-		6. targetMobileAppsSiteField.xml	---> Which Site would you like to move the mobile apps to?
+		6. targetMobileAppsSiteField.xml		---> Which Site would you like to move the mobile apps to?
 
 	WARNING: Changes made here will be applied to the JAMF database. Edit with caution. 
 	
