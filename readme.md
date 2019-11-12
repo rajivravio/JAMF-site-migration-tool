@@ -1,5 +1,7 @@
 AUTHOR: Rajiv Ravishankar / rajivravio@gmail.com / rrs@northwestern.edu
+
 DATE: 10NOV2019
+
 VER: 1.0
 
 This tool is designed to automate moving JAMF resources accross sites within the same JAMF instance. Specifically built to move JAMF resources
